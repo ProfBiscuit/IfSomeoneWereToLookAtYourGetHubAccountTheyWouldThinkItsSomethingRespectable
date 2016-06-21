@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "This is to get us started." << endl; // prints This is to get us started
+	cout << "This program doesn't do anything as of yet! Good luck." << endl; // prints This is to get us started
 	return 0;
 }
